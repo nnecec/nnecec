@@ -20,4 +20,4 @@ technology-stack = [
 
 
 
-❤️ [nnecec](https://github.com/nnecec)
+[nnecec](https://github.com/nnecec)
