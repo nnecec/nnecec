@@ -5,13 +5,8 @@
 ```toml
 
 [personal]
-name = 'nnecec'
-city = 'China'
 email = 'nnecec@outlook.com'
 wechat = 'nnecec'
-
-[professional]
-title = 'Front-End Development Engineer'
 
 [bio]
 programming-languages = [
