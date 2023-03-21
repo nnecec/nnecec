@@ -18,8 +18,12 @@ programming-languages = [
 technology-stack = [
   'react'
 ]
+[building]
+blog = 'https://nnecec.vercel.app'
+decox = 'https://decox.vercel.app'
+afo = 'https://github.com/nnecec/afo'
 ```
 
 
 
-[nnecec](https://github.com/nnecec)
+now you see [nnecec](https://github.com/nnecec)
