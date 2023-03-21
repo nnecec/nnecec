@@ -18,6 +18,7 @@ programming-languages = [
 technology-stack = [
   'react'
 ]
+
 [building]
 blog = 'https://nnecec.vercel.app'
 decox = 'https://decox.vercel.app'
