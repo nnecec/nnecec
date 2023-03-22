@@ -27,4 +27,4 @@ afo = 'https://github.com/nnecec/afo'
 
 
 
-now you see [nnecec](https://github.com/nnecec)
+now you see [nnecec](https://nnecec.vercel.app)
