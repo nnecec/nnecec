@@ -20,11 +20,16 @@ technology-stack = [
 ]
 
 [building]
-blog = 'https://nnecec.vercel.app'
-decox = 'https://decox.vercel.app'
-afo = 'https://github.com/nnecec/afo'
+blog = 'collection of articles'
+decox = 'a image decorator'
+afo = 'collection of tools'
 ```
 
 
 
-now you see [nnecec](https://nnecec.vercel.app)
+Now you see [nnecec](https://nnecec.vercel.app).
+
+Quick links:
+
+- [docox](https://decox.vercel.app)
+- [afo](https://afo-docs.vercel.app)
