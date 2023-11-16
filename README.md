@@ -31,6 +31,6 @@ Now you see [nnecec](https://nnecec.vercel.app).
 
 Quick links:
 
-- [docox](https://decox.vercel.app)
-- [afo](https://afo-docs.vercel.app)
-- [collctions](https://codesandbox.io/p/sandbox/collections-mi2c3u)
+- [decox](https://decox.vercel.app)
+- [ecec](https://ecec.vercel.app)
+- [configs curation](config-curation.vercel.app)
