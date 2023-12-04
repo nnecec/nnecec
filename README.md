@@ -29,8 +29,10 @@ afo = 'collection of tools'
 
 Now you see [nnecec](https://nnecec.vercel.app).
 
-Quick links:
+I'm building these projects:
 
-- [decox](https://decox.vercel.app)
-- [ecec](https://ecec.vercel.app)
-- [configs curation](config-curation.vercel.app)
+- [decox](https://decox.vercel.app/)
+- [ecec](https://ecec.vercel.app/)
+- [configs curation](config-curation.vercel.app/)
+- [zh](https://zh-standard.vercel.app/)
+- [changesets documentation](https://changesets-docs.vercel.app/)
