@@ -31,8 +31,8 @@ Now you see [nnecec](https://nnecec.vercel.app).
 
 I'm building these projects:
 
-- [decox](https://decox.vercel.app/)
-- [ecec](https://ecec.vercel.app/)
-- [configs curation](config-curation.vercel.app/)
+- [configs curation](https://config-curation.vercel.app/)
 - [zh](https://zh-standard.vercel.app/)
 - [changesets documentation](https://changesets-docs.vercel.app/)
+- [decox](https://decox.vercel.app/)
+- [ecec](https://ecec.vercel.app/)
