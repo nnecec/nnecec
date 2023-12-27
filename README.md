@@ -12,17 +12,18 @@ wechat = 'nnecec'
 
 [bio]
 programming-languages = [
-  'javascript',
-  'rust',
+  'JavaScript',
+  'TypeScript',
+  'Rust',
 ]
-technology-stack = [
-  'react'
+technologies = [
+  'React',
+  'Next.js',
+  'Ant Design',
+  'TailwindCSS',
+  'ESLint',
+  'Framer Motion',
 ]
-
-[building]
-blog = 'collection of articles'
-decox = 'a image decorator'
-afo = 'collection of tools'
 ```
 
 
@@ -31,8 +32,9 @@ Now you see [nnecec](https://nnecec.vercel.app).
 
 I'm building these projects:
 
-- [configs curation](https://config-curation.vercel.app/)
-- [zh](https://zh-standard.vercel.app/)
-- [changesets documentation](https://changesets-docs.vercel.app/)
-- [decox](https://decox.vercel.app/)
+- [A curation of configs](https://config-curation.vercel.app/)
+- [Zh](https://zh-standard.vercel.app/)
+- [Changesets Documentation](https://changesets-docs.vercel.app/)
+- [Deco](https://decox.vercel.app/)
 - [ecec](https://ecec.vercel.app/)
+- ColorKit(coming soon..)
