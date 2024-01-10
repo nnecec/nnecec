@@ -32,9 +32,10 @@ Now you see [nnecec](https://nnecec.vercel.app).
 
 I'm building these projects:
 
-- [A curation of configs](https://config-curation.vercel.app/)
+- [A curation of Modern FE's Configs](https://config-curation.vercel.app/)
 - [Zh](https://zh-standard.vercel.app/)
-- [Changesets Documentation](https://changesets-docs.vercel.app/)
 - [Deco](https://decox.vercel.app/)
 - [ecec](https://ecec.vercel.app/)
+- [Changesets Documentation](https://changesets-docs.vercel.app/)
+- [gibbok/typescript-book online](https://typescript-book.vercel.app/)
 - ColorKit(coming soon..)
