@@ -34,6 +34,7 @@ I'm building these projects:
 
 - [A curation of Modern FE's Configs](https://config-curation.vercel.app/)
 - [Zh](https://zh-standard.vercel.app/)
+- [ColorKit - Palette](https://github.com/color-kit/palette)
 - [Deco](https://decox.vercel.app/)
 - [Changesets Documentation](https://changesets-docs.vercel.app/)
 - [gibbok/typescript-book online](https://typescript-book.vercel.app/)
