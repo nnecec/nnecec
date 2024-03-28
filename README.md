@@ -4,38 +4,27 @@
   <img src="https://img.shields.io/twitter/follow/nnecec_cn?label=Follow%20%40nnecec&style=social" alt="follow twitter">
 </p>
 
-```toml
+## Hello there 👋
 
-[personal]
-email = 'nnecec@outlook.com'
-wechat = 'nnecec'
+I'm a full-stack developer, here are some information about me.
 
-[bio]
-programming-languages = [
-  'JavaScript',
-  'TypeScript',
-  'Rust',
-]
-technologies = [
-  'React',
-  'Next.js',
-  'Ant Design',
-  'TailwindCSS',
-  'ESLint',
-  'Framer Motion',
-]
-```
+- 📧 : [nnecec@outlook.com](mailto:nnecec@outlook.com)
+- 💬 : Chinese, English
 
+---
 
+- 🥤 : [x: nnecec](https://x.com/nnecec_cn), wechat: nnecec
+- 🍟 : JavaScript, TypeScript, Rust<sub>ing</sub>
+- 🍔 : `React`, `Node.js`, `Next.js`, `Ant Design`, `Tailwind CSS`, `ESLint`,
+  `Prettier`, `Framer Motion`, `Vite`, `Webpack`, `Rollup`, and more
 
-Now you see [nnecec](https://nnecec.vercel.app).
+---
 
-I'm building these projects:
+- 🍉 [Zh](https://zh-standard.vercel.app/): Formatting Chinese with ease.
+- 🍓 [Config](https://config-curation.vercel.app/): Config Curation.Now
+  available ESLint, TSConfig, Prettier, Vite.
+- 🍎 [ColorKit/Palette](https://github.com/color-kit/palette): A tailwind plugin
+  for building palettes based on colors that you love.
+- 🍊 [Deco](https://github.com/nnecec/deco): Deco your artwork.
+- 🍒 [Changesets Documentation](https://changesets-docs.vercel.app/): 🦋 Here is Unofficial changesets documentation.
 
-- [A curation of Modern FE's Configs](https://config-curation.vercel.app/)
-- [Zh](https://zh-standard.vercel.app/)
-- [ColorKit - Palette](https://github.com/color-kit/palette)
-- [Deco](https://decox.vercel.app/)
-- [Changesets Documentation](https://changesets-docs.vercel.app/)
-- [gibbok/typescript-book online](https://typescript-book.vercel.app/)
-- ColorKit(coming soon..)
