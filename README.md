@@ -8,10 +8,16 @@
 
 I'm a full-stack developer, here are some information about me.
 
+---
+
+Me.
+
 - 📧 : [nnecec@outlook.com](mailto:nnecec@outlook.com)
 - 💬 : Chinese, English
 
 ---
+
+Bio.
 
 - 🥤 : [x: nnecec](https://x.com/nnecec_cn), wechat: nnecec
 - 🍟 : JavaScript, TypeScript, Rust<sub>ing</sub>
@@ -19,6 +25,8 @@ I'm a full-stack developer, here are some information about me.
   `Prettier`, `Framer Motion`, `Vite`, `Webpack`, `Rollup`, and more
 
 ---
+
+Projects.
 
 - 🍉 [Zh](https://zh-standard.vercel.app/): Formatting Chinese with ease.
 - 🍓 [Config](https://config-curation.vercel.app/): Config Curation.Now
