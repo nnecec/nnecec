@@ -29,10 +29,8 @@ Bio.
 Projects.
 
 - 🍉 [Zh](https://zh-standard.vercel.app/): Formatting Chinese with ease.
-- 🍓 [Config](https://config-curation.vercel.app/): Config Curation.Now
-  available ESLint, TSConfig, Prettier, Vite.
-- 🍎 [ColorKit/Palette](https://github.com/color-kit/palette): A tailwind plugin
-  for building palettes based on colors that you love.
+- 🍓 [Config](https://config-curation.vercel.app/): The curation of configs.Now available ESLint, TSConfig, Prettier, and Vite.
+- 🍎 [ColorKit/Palette](https://github.com/color-kit/palette): A tailwind plugin for building palettes based on colors that you love.
 - 🍊 [Deco](https://github.com/nnecec/deco): Deco your artwork.
-- 🍒 [Changesets Documentation](https://changesets-docs.vercel.app/): 🦋 Here is Unofficial changesets documentation.
+- 🍒 [Changesets Documentation](https://changesets-docs.vercel.app/): 🦋 Here is an unofficial changesets documentation.
 
